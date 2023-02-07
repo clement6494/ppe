@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T13:56:25.872Z" agent="5.0 (Windows)" etag="aclabe0BmUdz6dUAINdK" title="PPE" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:59:46.153Z" agent="5.0 (Windows)" etag="zaWZkrC5mkSx2wwsOu9s" title="PPE" version="20.8.18" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="PPE" title="PPE">
     <mxGraphModel dx="3134" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD8mtoYoSRtx0puPlRCx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-3" target="a-7JB9tWbcIdKE0PISEG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-3" target="VD8mtoYoSRtx0puPlRCx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a-7JB9tWbcIdKE0PISEG-3" value="évaluer les coûts necessaires" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -138,6 +141,33 @@
         </mxCell>
         <mxCell id="VD8mtoYoSRtx0puPlRCx-8" value="&lt;div&gt;coût main d&#39;oeuvre/&lt;/div&gt;&lt;div&gt;transport des materiaux&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VD8mtoYoSRtx0puPlRCx-11" target="VD8mtoYoSRtx0puPlRCx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VD8mtoYoSRtx0puPlRCx-11" target="VD8mtoYoSRtx0puPlRCx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-11" value="coût d&#39;entretien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="700" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-13" value="climat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="665" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-15" value="lieu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="730" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VD8mtoYoSRtx0puPlRCx-16" target="VD8mtoYoSRtx0puPlRCx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-16" value="prix main d&#39;oeuvre/materiel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="730" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VD8mtoYoSRtx0puPlRCx-19" target="VD8mtoYoSRtx0puPlRCx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-19" value="fréquence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
