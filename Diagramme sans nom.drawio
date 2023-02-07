@@ -1,116 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T13:47:35.439Z" agent="5.0 (Windows)" etag="7swPmV3H8PoPiz8dgak4" version="20.8.18" type="github" >
-  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1" >
-    <mxGraphModel dx="3387" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:56:25.872Z" agent="5.0 (Windows)" etag="aclabe0BmUdz6dUAINdK" title="PPE" version="20.8.18" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="PPE" title="PPE">
+    <mxGraphModel dx="3134" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.004;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-2">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.004;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-3">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-7">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-1" target="a-7JB9tWbcIdKE0PISEG-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-1" value="&lt;div&gt;evaluer benefice issu de la captation et revente d&#39;oxygene pour une centrale d&#39;electrolise de l&#39;eau.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Par an/mois/exercice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-1" value="&lt;div&gt;evaluer benefice issu de la captation et revente d&#39;oxygene pour une centrale d&#39;electrolise de l&#39;eau.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Par an/mois/exercice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="210" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-2" target="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-2" target="a-7JB9tWbcIdKE0PISEG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-2" value="évaluer les revenus générés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-2" value="évaluer les revenus générés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-530" y="110" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-3" target="a-7JB9tWbcIdKE0PISEG-6">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-3" target="a-7JB9tWbcIdKE0PISEG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-3" value="évaluer les coûts necessaires" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-3" target="a-7JB9tWbcIdKE0PISEG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-3" value="évaluer les coûts necessaires" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-530" y="330" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-6" target="a-7JB9tWbcIdKE0PISEG-16">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-6" target="a-7JB9tWbcIdKE0PISEG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-6" target="a-7JB9tWbcIdKE0PISEG-17">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-6" target="a-7JB9tWbcIdKE0PISEG-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-6" value="stopper l&#39;usines pendant l&#39;installation d&#39;un module captation oxygènes ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-6" value="stopper l&#39;usines pendant l&#39;installation d&#39;un module captation oxygènes ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-190" y="330" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-7" target="a-7JB9tWbcIdKE0PISEG-9">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-7" target="a-7JB9tWbcIdKE0PISEG-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-7" value="risques pour l&#39;environnement/ santé des ouvriers et leurs potentiels coûts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-7" value="risques pour l&#39;environnement/ santé des ouvriers et leurs potentiels coûts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="-60" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-33">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-31">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-30">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-9" target="a-7JB9tWbcIdKE0PISEG-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-9" value="estimer l&#39;augmentation du taux d’oxygène dans l&#39;atmosphère autour de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-9" value="estimer l&#39;augmentation du taux d’oxygène dans l&#39;atmosphère autour de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-140" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-12" value="par secteur" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-12" value="par secteur" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-10" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-11" value="prix au litre de l&#39;oxygene 1bar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-11" value="prix au litre de l&#39;oxygene 1bar" style="rounded=0;whiteSpace=wrap;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" vertex="1">
           <mxGeometry x="50" y="40" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-14" value="estimation de la demande" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-14" value="estimation de la demande" style="rounded=0;whiteSpace=wrap;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" vertex="1">
           <mxGeometry x="50" y="100" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="a-7JB9tWbcIdKE0PISEG-12" source="a-7JB9tWbcIdKE0PISEG-25" target="a-7JB9tWbcIdKE0PISEG-26">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="a-7JB9tWbcIdKE0PISEG-12" source="a-7JB9tWbcIdKE0PISEG-25" target="a-7JB9tWbcIdKE0PISEG-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a-7JB9tWbcIdKE0PISEG-12" source="a-7JB9tWbcIdKE0PISEG-25" target="a-7JB9tWbcIdKE0PISEG-27">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" source="a-7JB9tWbcIdKE0PISEG-25" target="a-7JB9tWbcIdKE0PISEG-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-25" value="&lt;div&gt;coût de transport&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-25" value="&lt;div&gt;coût de transport&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" vertex="1">
           <mxGeometry x="50" y="170" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-26" value="lieu de l&#39;usine productrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-26" value="lieu de l&#39;usine productrice" style="rounded=0;whiteSpace=wrap;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" vertex="1">
           <mxGeometry x="260" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-27" value="lieu de l&#39;entreprise cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a-7JB9tWbcIdKE0PISEG-12">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-27" value="lieu de l&#39;entreprise cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="a-7JB9tWbcIdKE0PISEG-12" vertex="1">
           <mxGeometry x="260" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-15" value="coût des travaux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-15" target="VD8mtoYoSRtx0puPlRCx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-15" target="VD8mtoYoSRtx0puPlRCx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-15" target="VD8mtoYoSRtx0puPlRCx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-15" value="coût des travaux" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="470" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-16" value="durée des travaux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-16" value="durée des travaux" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="330" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-17" value="benefice de l&#39;usine / u temps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-17" value="benefice de l&#39;usine / u temps" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="375" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-24" value="&lt;div&gt;qui s&#39;occupe du transport?&lt;/div&gt;&lt;div&gt;-l&#39;usine productrice&lt;/div&gt;&lt;div&gt;-l&#39;entreprise cliente&lt;/div&gt;&lt;div&gt;-une entreprise tierce&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="-70" width="120" height="110" as="geometry" />
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-24" value="&lt;div&gt;qui s&#39;occupe du transport?&lt;/div&gt;&lt;div&gt;-l&#39;usine productrice&lt;/div&gt;&lt;div&gt;-l&#39;entreprise cliente&lt;/div&gt;&lt;div&gt;-une entreprise tierce&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1130" y="-70" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-30" value="production de l&#39;usine / u temps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-30" value="production de l&#39;usine / u temps" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-180" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-31" target="a-7JB9tWbcIdKE0PISEG-40">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-31" target="a-7JB9tWbcIdKE0PISEG-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-31" value="etude geologique de l&#39;emplacement de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-31" value="etude geologique de l&#39;emplacement de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="-130" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-7JB9tWbcIdKE0PISEG-33" target="a-7JB9tWbcIdKE0PISEG-34">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-7JB9tWbcIdKE0PISEG-33" target="a-7JB9tWbcIdKE0PISEG-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-33" value="meteorologique" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-33" value="meteorologique" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="-80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-34" value="etude des vents / pluviometrie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-34" value="etude des vents / pluviometrie" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="-80" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-7JB9tWbcIdKE0PISEG-40" value="situé en haut d&#39;une colline/ plateau ou dans une cuve ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a-7JB9tWbcIdKE0PISEG-40" value="situé en haut d&#39;une colline/ plateau ou dans une cuve ?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="-130" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-2" value="production de l&#39;usine / temps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-3" value="taille / architecture de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-6" value="lieu/geographie emplacement de l&#39;usine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="565" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VD8mtoYoSRtx0puPlRCx-8" target="VD8mtoYoSRtx0puPlRCx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD8mtoYoSRtx0puPlRCx-8" value="&lt;div&gt;coût main d&#39;oeuvre/&lt;/div&gt;&lt;div&gt;transport des materiaux&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
